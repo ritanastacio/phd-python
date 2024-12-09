@@ -19,7 +19,7 @@ Forké depuis https://github.com/InseeFrLab/formation-python-initiation (Romain 
     * Traiter des données tabulaires avec Pandas
     * Introduction à la visualisation de données
 
-3.Projets
+3. Projets
     * Projet 1 - Puissance 4
     * Projet 2 - Prédictions météorologiques
     * Projet 3 - Estimations de population à partir du recensement
