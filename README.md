@@ -4,7 +4,7 @@ Forké depuis https://github.com/InseeFrLab/formation-python-initiation (Romain 
 
 
 1. Fondamentaux du langage
-    * [Types de base et variables](https://github.com/GuillaumeBlin/phd-python/blob/main/fundamentals/types-variables/tutorial.ipynb)
+    * [Types de base et variables](fundamentals/types-variables/tutorial.ipynb)
     * Structures de données 1 : listes et tuples
     * Structures de données 2 : dictionnaires et sets
     * Tests logiques et conditions
