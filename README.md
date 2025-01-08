@@ -31,7 +31,11 @@ Forké depuis https://github.com/InseeFrLab/formation-python-initiation (Romain 
 
 Forked from https://github.com/InseeFrLab/formation-python-initiation (Romain Avouac)
 
-[First thing first ... ](first-thing-first.ipynb)
+Let do [First thing first ... ](first-thing-first.md)
+
+Once done, you should read this while being in a codespace environment (if not go back to [First thing first ... ](first-thing-first.md)).
+
+* Let's now try a [basic program](nicejob.ipynb)
 
 1. Language fundamentals
     * [Basic types and variables](fundamentals/types-variables/tutorial.ipynb)
