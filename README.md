@@ -3,7 +3,11 @@
 
 Forké depuis https://github.com/InseeFrLab/formation-python-initiation (Romain Avouac)
 
-[Avant tout ... ](avant-tout.ipynb)
+Commençons par [le début ... ](avant-tout.md)
+
+Une fois effectué, vous devriez lire ce message dans l'environnement CodeSpace (sinon, refaite la procédure décrite dans [le début ... ](avant-tout.md)).
+
+Essayons maintenant [un programme basique](bienjoue.ipynb)
 
 1. Fondamentaux du langage
     * [Types de base et variables](fundamentals/types-variables/tutorial.ipynb)
@@ -35,7 +39,7 @@ Let do [First thing first ... ](first-thing-first.md)
 
 Once done, you should read this while being in a codespace environment (if not go back to [First thing first ... ](first-thing-first.md)).
 
-* Let's now try a [basic program](nicejob.ipynb)
+Let's now try a [basic program](nicejob.ipynb)
 
 1. Language fundamentals
     * [Basic types and variables](fundamentals/types-variables/tutorial.ipynb)
