@@ -3,6 +3,7 @@
 
 Forké depuis https://github.com/InseeFrLab/formation-python-initiation (Romain Avouac)
 
+[Avant tout ... ](avant-tout.ipynb)
 
 1. Fondamentaux du langage
     * [Types de base et variables](fundamentals/types-variables/tutorial.ipynb)
@@ -30,6 +31,7 @@ Forké depuis https://github.com/InseeFrLab/formation-python-initiation (Romain 
 
 Forked from https://github.com/InseeFrLab/formation-python-initiation (Romain Avouac)
 
+[First thing first ... ](first-thing-first.ipynb)
 
 1. Language fundamentals
     * [Basic types and variables](fundamentals/types-variables/tutorial.ipynb)
